@@ -22,7 +22,7 @@ from selenium.webdriver.chrome.options import Options
 options = Options()
 options.headless = True
 #PATH = "C:\Program Files (x86)\chromedriver.exe"
-PATH = r"C:\Users\Ibrahim\.vscode\chromedriver.exe"
+PATH = r"E:chromedriver.exe"
 
 chrome_options = webdriver.ChromeOptions(); 
 chrome_options.add_experimental_option("excludeSwitches", ['enable-automation']);
