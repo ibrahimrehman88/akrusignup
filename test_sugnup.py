@@ -350,4 +350,4 @@ def test_main():
     time.sleep(2)
     driver.switch_to.window(driver.window_handles[0])
    
-test_main()s
+test_main()
