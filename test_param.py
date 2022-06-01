@@ -25,8 +25,6 @@ options.headless = True
 PATH = r"E:\chromedriver.exe"
 #comment no 1
 #comment no 2
-#comment
-#comment
 
 #this is new chanege
 
