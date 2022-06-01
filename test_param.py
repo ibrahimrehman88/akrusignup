@@ -27,13 +27,6 @@ PATH = r"E:\chromedriver.exe"
 #comment no 2
 #comment
 
-#th
-# is is fifth committ
-#hy
-#this is commit
-#this iss second commit
-#thiss is third commit
-#thiss iss fourth commit
 
 #this is new chanege
 
